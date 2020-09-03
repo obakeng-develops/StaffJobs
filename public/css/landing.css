@@ -1,0 +1,10 @@
+body {
+    background: #ffffff;
+    background-image: url('../img/mario-gogh.jpg');
+    background-size: cover;
+}
+
+.landing-img {
+    height: 80vh;
+    width: 30vw;
+}

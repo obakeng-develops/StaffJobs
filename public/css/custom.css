@@ -1,0 +1,70 @@
+body {
+    background: #ffffff;
+    font-family: 'Roboto Slab', serif;
+}
+.jumbotron {
+    height: 40vh;
+}
+
+.hero {
+    font-family: 'Playfair Display', serif;
+}
+
+.navbar {
+    font-family: 'Zilla Slab', serif;
+}
+
+.landing-img {
+    height: 80vh;
+    width: 30vw;
+}
+
+.job-img {
+    width: 80px;
+    height: 110px;
+}
+
+.header {
+    font-family: 'Zilla Slab Black', serif;
+}
+
+.profile-img {
+    width: 180px;
+    height: 180px;
+}
+
+/* Modal formatting */
+.modal-custom-header {
+    background-color: #003268;
+    color: white;
+}
+.close {
+    color: white;
+    border: 2px solid white;
+}
+.close:hover {
+    color: white;
+}
+
+.render {
+    white-space: pre-wrap;
+}
+
+/* Footer */
+footer {
+    height: 150px;
+}
+
+/* Sidebar */
+.wrapper {
+    align-items: stretch;
+}
+.sidebar {
+    min-width: 100px;
+    max-width: 100px;
+    min-height: 100vh;
+}
+.sidebar-img {
+    background-image: url('../img/mario-gogh.jpg');
+    background-size: cover;
+}
